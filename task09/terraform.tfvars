@@ -1,0 +1,6 @@
+subscription_id        = "e8d26d6e-1ec7-469e-b06a-3898bf7ef4b9"
+aks_loadbalancer_ip    = "128.203.254.134"
+location               = "centralus"
+vnet_address_space     = "10.0.0.0/16"
+firewall_subnet_prefix = "10.0.0.0/24"
+default_route_name     = "cmtr-f5n7jzgb-mod9-default-route"
