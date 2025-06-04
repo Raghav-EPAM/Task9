@@ -122,6 +122,4 @@ resource "azurerm_firewall_nat_rule_collection" "nat" {
     translated_port       = "80"
     protocols             = ["TCP"]
   }
-
-
 }
